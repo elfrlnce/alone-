@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:aqua;
+    border-radius: 15px;
+    padding: 8px;
+    color:darkblue;   
+}
+header a{
+    text-decoration:none;
+    background-color:white;
+    border-radius:5px;
+    padding:3px;
+}
+h1{
+    text-align:center;
+    color:#800080;
+}
+footer{
+    background-color:#4B0082;
+    padding:5px
+    
+}
+footer p{
+    color: black;
+    padding:5px;
+    background-color:white;
+    border-radius: 5px;
+
+}
+nav a{
+    text-decoration: none;
+    border-radius: 12px;
+    padding: 5px;
+    background-color:DarkSlateBlue;
+    color:white;
+}
+nav{
+    padding:10px;
+}
+.kew1{
+    text-align: center;
+    font-family:comic sans ms;
+    color:Indigo;
+}
+.pic1{
+    background-color: #FF6347;
+    border-radius:12px;
+    padding:6px;
+    text-align: center;
+}
+.t2{
+    text-align:center;
+    color:DeepSkyBlue;
+}
+.pic2{
+    border:3px solid RoyalBlue;
+    border-radius:10px;
+}
+p{
+    font-size:20px;
+}
+.jk3{
+    color: Navy;
+    font-family:fantasy;
+    }
+
+.link1{
+    border:5px solid SteelBlue;
+    text-decoration:none;
+    padding:5px;
+    margin: 5px;
+    border-radius:5px;
+}
+.text5{
+    color:LightSeaGreen;
+    font-family:fantasy;
+}
+.text6{
+    color:MediumAquamarine;
+    font-family:segoe print;
+}
+.link2{
+    border:5px solid SteelBlue;
+    text-decoration:none;
+    padding:5px;
+    margin: 5px;
+    border-radius:5px;
+}
+.foot1{
+    font-family:cursive;
+}
